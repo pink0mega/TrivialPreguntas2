@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>PRUEBA DE PHP CON BOOTSTRAP</title>
+        <title>Trivial</title>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     </head>
     <body style="background-color: grey">
